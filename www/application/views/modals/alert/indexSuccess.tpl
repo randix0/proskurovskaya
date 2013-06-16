@@ -1,0 +1,1 @@
+{l}_ALERTS_success_{$code}{/l}
